@@ -1,0 +1,13 @@
+name: "Ace Designs Website Built with Gitjub.io"
+description: "Just another Website built by Ace"
+
+url: "http://acedesigns.github.io"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
+highlighter: pygments
+github: [Repository metadata]
+

@@ -1,3 +1,12 @@
+#name: "Ace Designs Website Built with Gitjub.io"
+#description: "Just another Website built by Ace"
+#url: "http://localhost:4000"
+#paginate: 10
+#markdown: rdiscount
+#permalink: pretty
+#pygments: true
+#highlighter: pygments
+#github: [Repository metadata]
 #
 # This file contains configuration flags to customize your site
 #
